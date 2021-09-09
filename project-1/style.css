@@ -1,0 +1,30 @@
+body {
+  background-color: aqua;
+}
+
+/* PAGE 1 */
+.bg-1 {
+  background-image: url(https://i.gifer.com/origin/8d/8dbbe753d31824dc38d35567975bec5d.gif);
+  background-size: cover;
+  height: 100vh;
+  text-align: left;
+}
+.text-1 {
+  color: white;
+  line-height: 1.25em;
+  font-family: "Times New Roman", Times, serif;
+  font-size: xx-large;
+  font-weight: bolder;
+  -webkit-mask-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgb(255, 255, 255)),
+    to(rgba(241, 241, 241, 0.185))
+  );
+  margin-left: 90px;
+  margin-top: 300px;
+}
+.link-1 {
+  color: yellow;
+}
