@@ -1,6 +1,7 @@
 # Project 1: Backseat Exchange
 
 ![Project 1 Walkthrough Gif](https://media0.giphy.com/media/BM9yCEA0yf9Kt7ZEzN/giphy.gif)
+
 [Backseat Exchange](https://quuanp.github.io/iml300/project-1/index.html) is a non-liner, interactive web experience that utilizes prose to convey a narrative.
 
 ### Description
