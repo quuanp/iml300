@@ -88,9 +88,14 @@ iframe {
 
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 2em;
 }
 
 .grid-item {
-  text-indent: 10px;
+  text-indent: 15px;
+}
+
+.grid-items {
+  margin-left: 1.5em;
 }
